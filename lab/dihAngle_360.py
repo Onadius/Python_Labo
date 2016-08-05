@@ -26,7 +26,7 @@ def doCommand(fname, year, month, day, sec, com1):
 	
     	
     	#make new dir for resultInpcrd
-    	new_dir = "resultInpcrd_"+ month + day + sec
+    	new_dir = "results_"+ month + day + sec
     	cmd1 = "mkdir %s" % str(new_dir)
     	cmd2 = "cd %s" % str(new_dir)
     	

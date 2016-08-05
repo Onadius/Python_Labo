@@ -1,0 +1,201 @@
+
+          -------------------------------------------------------
+          Amber 12 SANDER                              2012
+          -------------------------------------------------------
+
+| Run on 08/05/2016 at 14:58:35
+  [-O]verwriting output
+
+File Assignments:
+|  MDIN: Ene.in                                                                
+| MDOUT: dihAngle-88_ene.out                                                   
+|INPCRD: confamb-88.inpcrd                                                     
+|  PARM: confamb.prmtop                                                        
+|RESTRT: dihAngle-88_ene.restrt                                                
+|  REFC: refc                                                                  
+| MDVEL: mdvel                                                                 
+|  MDEN: mden                                                                  
+| MDCRD: dihAngle-88_ene.mdcrd                                                 
+|MDINFO: mdinfo                                                                
+|  MTMD: mtmd                                                                  
+|INPDIP: inpdip                                                                
+|RSTDIP: rstdip                                                                
+
+|INPTRA: inptraj                                                               
+|
+ 
+ Here is the input file:
+ 
+                                                                               
+&cntrl                                                                         
+   imin=0, ntx=1, irest=0,                                                     
+   ntwx=10, nstlim=1,                                                          
+   dt=0.001,  temp0=300,                                                       
+   ntt=3, tautp=2.0, ig=-1,                                                    
+   ntc=2, ntf=2, cut=999, rgbmax=999,                                          
+   ntb=0, igb=5, saltcon=0.0,                                                  
+   nrespa=1, tol=0.000001,                                                     
+   nscm = 10,                                                                  
+   gamma_ln=1.0, ntwr=1000, ioutfm=0, ntpr=1000,                               
+ /                                                                             
+
+--------------------------------------------------------------------------------
+   1.  RESOURCE   USE: 
+--------------------------------------------------------------------------------
+
+| Flags:                                                                        
+| New format PARM file being parsed.
+| Version =    1.000 Date = 08/05/16 Time = 14:55:16
+ NATOM  =      25 NTYPES =       9 NBONH =      12 MBONA  =      12
+ NTHETH =      25 MTHETA =      15 NPHIH =      52 MPHIA  =      29
+ NHPARM =       0 NPARM  =       0 NNB   =     115 NRES   =       3
+ NBONA  =      12 NTHETA =      15 NPHIA =      29 NUMBND =      10
+ NUMANG =      19 NPTRA  =      21 NATYP =       9 NPHB   =       0
+ IFBOX  =       0 NMXRS  =      13 IFCAP =       0 NEXTRA =       0
+ NCOPY  =       0
+
+ Implicit solvent radii are H(N)-modified Bondi radii (mbondi2)                                             
+
+|     Memory Use     Allocated
+|     Real                1601
+|     Hollerith             80
+|     Integer            21257
+|     Max Pairs              1
+|     nblistReal             0
+|     nblist Int             0
+|       Total               95 kbytes
+
+| Note: 1-4 EEL scale factors are being read from the topology file.
+
+| Note: 1-4 VDW scale factors are being read from the topology file.
+| Duplicated    0 dihedrals
+| Duplicated    0 dihedrals
+Note: ig = -1. Setting random seed based on wallclock time in microseconds.
+
+--------------------------------------------------------------------------------
+   2.  CONTROL  DATA  FOR  THE  RUN
+--------------------------------------------------------------------------------
+
+ACE                                                                             
+
+General flags:
+     imin    =       0, nmropt  =       0
+
+Nature and format of input:
+     ntx     =       1, irest   =       0, ntrx    =       1
+
+Nature and format of output:
+     ntxo    =       1, ntpr    =    1000, ntrx    =       1, ntwr    =    1000
+     iwrap   =       0, ntwx    =      10, ntwv    =       0, ntwe    =       0
+     ioutfm  =       0, ntwprt  =       0, idecomp =       0, rbornstat=      0
+
+Potential function:
+     ntf     =       2, ntb     =       0, igb     =       5, nsnb    =      25
+     ipol    =       0, gbsa    =       0, iesp    =       0
+     dielc   =   1.00000, cut     = 999.00000, intdiel =   1.00000
+     saltcon =   0.00000, offset  =   0.09000, gbalpha=    1.00000
+     gbbeta  =   0.80000, gbgamma =   4.85000, surften =   0.00500
+     rdt     =   0.00000, rgbmax  = 999.00000  extdiel =  78.50000
+     alpb  =        0
+
+Frozen or restrained atoms:
+     ibelly  =       0, ntr     =       0
+
+Molecular dynamics:
+     nstlim  =         1, nscm    =        10, nrespa  =         1
+     t       =   0.00000, dt      =   0.00100, vlimit  =  20.00000
+
+Langevin dynamics temperature regulation:
+     ig      =  774371
+     temp0   = 300.00000, tempi   =   0.00000, gamma_ln=   1.00000
+
+SHAKE:
+     ntc     =       2, jfastw  =       0
+     tol     =   0.00000
+|  INFO: Old style inpcrd file read
+
+
+--------------------------------------------------------------------------------
+   3.  ATOMIC COORDINATES AND VELOCITIES
+--------------------------------------------------------------------------------
+
+ACE                                                                             
+ begin time read from input coords =     0.000 ps
+
+ Number of triangulated 3-point waters found:        0
+
+--------------------------------------------------------------------------------
+   4.  RESULTS
+--------------------------------------------------------------------------------
+
+|  # of SOLUTE  degrees of freedom (RNDFP):      63.
+|  # of SOLVENT degrees of freedom (RNDFS):       0.
+|  NDFMIN =      63.     NUM_NOSHAKE =      0     CORRECTED RNDFP =      63.
+|  TOTAL # of degrees of freedom (RNDF) =      63.
+
+ NSTEP =        0   TIME(PS) =       0.000  TEMP(K) =     0.00  PRESS =     0.0
+ Etot   =       -28.2335  EKtot   =         0.0000  EPtot      =       -28.2335
+ BOND   =         5.4435  ANGLE   =         2.8766  DIHED      =        15.3040
+ 1-4 NB =         6.1446  1-4 EEL =        20.8049  VDWAALS    =        44.3715
+ EELEC  =      -101.5565  EGB     =       -21.6222  RESTRAINT  =         0.0000
+ ------------------------------------------------------------------------------
+
+
+      A V E R A G E S   O V E R       1 S T E P S
+
+
+ NSTEP =        1   TIME(PS) =       0.001  TEMP(K) =     0.13  PRESS =     0.0
+ Etot   =       -28.2253  EKtot   =         0.0082  EPtot      =       -28.2335
+ BOND   =         5.4435  ANGLE   =         2.8766  DIHED      =        15.3040
+ 1-4 NB =         6.1446  1-4 EEL =        20.8049  VDWAALS    =        44.3715
+ EELEC  =      -101.5565  EGB     =       -21.6222  RESTRAINT  =         0.0000
+ ------------------------------------------------------------------------------
+
+
+      R M S  F L U C T U A T I O N S
+
+
+ NSTEP =        1   TIME(PS) =       0.001  TEMP(K) =     0.00  PRESS =     0.0
+ Etot   =         0.0000  EKtot   =         0.0000  EPtot      =         0.0000
+ BOND   =         0.0000  ANGLE   =         0.0000  DIHED      =         0.0000
+ 1-4 NB =         0.0000  1-4 EEL =         0.0000  VDWAALS    =         0.0000
+ EELEC  =         0.0000  EGB     =         0.0000  RESTRAINT  =         0.0000
+ ------------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------------
+   5.  TIMINGS
+--------------------------------------------------------------------------------
+
+|    Read coords time           0.00 (12.97% of Total)
+|    Fast Water setup           0.00 ( 0.05% of Total)
+|                Calc gb radii              0.00 (36.72% of Gen B)
+|                Calc gb diag               0.00 (35.16% of Gen B)
+|                Calc gb off-diag           0.00 (26.12% of Gen B)
+|                Other                      0.00 ( 2.01% of Gen B)
+|             Gen Born time              0.00 (100.0% of Nonbo)
+|          Nonbond force              0.00 (75.66% of Force)
+|          Bond/Angle/Dihedral        0.00 (19.76% of Force)
+|          Other                      0.00 ( 4.58% of Force)
+|       Force time                 0.00 (10.62% of Runmd)
+|       Shake time                 0.00 ( 0.16% of Runmd)
+|       Verlet update time         0.00 (62.17% of Runmd)
+|       Other                      0.00 (27.05% of Runmd)
+|    Runmd Time                 0.00 (37.13% of Total)
+|    Other                      0.00 (49.86% of Total)
+| Total time                 0.01 (96.78% of ALL  )
+
+| Highest rstack allocated:          0
+| Highest istack allocated:          0
+
+| Final Performance Info:
+| -----------------------------------------------------
+| Average timings for all steps:
+|     Elapsed(s) =       0.00 Per Step(ms) =       3.43
+|         ns/day =      25.21   seconds/ns =    3427.03
+| -----------------------------------------------------
+
+|           Job began  at 14:58:35.771  on 08/05/2016
+|           Setup done at 14:58:35.776  on 08/05/2016
+|           Run   done at 14:58:35.778  on 08/05/2016
+|     wallclock() was called      55 times
