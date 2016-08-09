@@ -1,0 +1,1 @@
+sander -O -i Ene.in -c confamb.inpcrd -p confamb.prmtop -ref confamb.inpcrd -o dihAngle_ene.out -r dihAngle_ene.restrt -x dihAngle_ene.mdcrd

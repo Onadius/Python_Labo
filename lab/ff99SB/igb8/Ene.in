@@ -3,7 +3,7 @@
   imin=0, ntx=1,
   ntwx=1, nstlim=1,
   ntt=3, dt=0.001, tempi=300, temp0=300,
-  tautp=0.2, ig=-1, igb=6,
+  tautp=0.2, ig=-1, igb=8,
   ntc=2, ntf=2, cut=999,
   rgbmax=999, ntb=0,
   saltcon=0.0, nrespa=1, tol=0.000001,

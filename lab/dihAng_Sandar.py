@@ -6,7 +6,7 @@ import os
 #main function
 if __name__ == "__main__":
 	
-    	for angle in  range(81, 181):
+    	for angle in  range(-180, 181):
     		
     		#define variable for command
 		com1 = "sander -O -i Ene.in -c confamb%s.inpcrd -p confamb.prmtop -o " % str(angle)
@@ -15,5 +15,6 @@ if __name__ == "__main__":
 		
 		#print(COM)
 		subprocess.check_call(COM.strip().split(" "))
-	
+			
+
 	

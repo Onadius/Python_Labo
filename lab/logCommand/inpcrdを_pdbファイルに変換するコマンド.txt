@@ -1,0 +1,4 @@
+//.inpcrdを.pdbファイルに変換するコマンド
+
+[biostr1@gpu04 dihAngle_energy]$ ambpdb -p confamb.prmtop <confamb9.inpcrd
+$ ambpdb -p confamb.prmtop < confamb-180.inpcrd > M-180.pdb

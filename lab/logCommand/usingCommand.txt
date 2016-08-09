@@ -1,0 +1,2 @@
+sh grep.sh --> シェルコマンドテキストをを走らせる
+tleap -s -f leaprc.ff99SB -f doCommand.txt　--> tleapを走らせるにあたり、-f ~.txtでテキスト内のコマンドを走らせる。

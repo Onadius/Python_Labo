@@ -22,7 +22,7 @@ def writeCommand(type, com2, com3, com4, com5_1, com5_2):
 
 
 #Execute command function
-def doCommand(fname, type, year, month, day, sec, com1):
+def doCommand(fname, type, year, month, day, sec):
 	
     	
     	#make new dir for resultInpcrd
@@ -44,11 +44,20 @@ def doCommand(fname, type, year, month, day, sec, com1):
 if __name__ == "__main__":
 	
 	#igb=5 --> mbondi2, igb=8 --> mbondi3, igb=6(in vacuo)
-    	type = raw_input("What is the type of mbondi? >") 
+    	type = raw_input("What is the type of igb? >") 
+    	mbon = 2
+    	
+    	if(type == "8"):
+    		mbon = 3
+    		print ("mbondi is " + str(mbon))
+    		com2 = "set default PBradii mbondi%s" % str(mbon)
+    		
+    	elif(type == "6"):
+    		com2 = ""
+    	
     	
 	#variable for command
 	#com1 = "tleap -s -f leaprc.%s" % (dirName)
-	com2 = "set default PBradii mbondi%s" % str(type)
 	com3 = "test = sequence{ACE ASH NME}"
 	com4 = "impose test {2} {{OD1 CG OD2 HD2 "
 	com5_1 = "saveamberparm test" 
@@ -62,6 +71,6 @@ if __name__ == "__main__":
 	sec = str(d.second)
 	
 	fname = writeCommand(type, com2, com3, com4, com5_1, com5_2) #makefile
-	doCommand(fname, type, year, month, day, sec, com1) #Execute command
+	doCommand(fname, type, year, month, day, sec) #Execute command
 	
 
