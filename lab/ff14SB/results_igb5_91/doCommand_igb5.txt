@@ -1,0 +1,1444 @@
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -180 }}
+saveamberparm test confamb.prmtop confamb-180.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -179 }}
+saveamberparm test confamb.prmtop confamb-179.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -178 }}
+saveamberparm test confamb.prmtop confamb-178.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -177 }}
+saveamberparm test confamb.prmtop confamb-177.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -176 }}
+saveamberparm test confamb.prmtop confamb-176.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -175 }}
+saveamberparm test confamb.prmtop confamb-175.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -174 }}
+saveamberparm test confamb.prmtop confamb-174.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -173 }}
+saveamberparm test confamb.prmtop confamb-173.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -172 }}
+saveamberparm test confamb.prmtop confamb-172.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -171 }}
+saveamberparm test confamb.prmtop confamb-171.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -170 }}
+saveamberparm test confamb.prmtop confamb-170.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -169 }}
+saveamberparm test confamb.prmtop confamb-169.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -168 }}
+saveamberparm test confamb.prmtop confamb-168.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -167 }}
+saveamberparm test confamb.prmtop confamb-167.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -166 }}
+saveamberparm test confamb.prmtop confamb-166.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -165 }}
+saveamberparm test confamb.prmtop confamb-165.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -164 }}
+saveamberparm test confamb.prmtop confamb-164.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -163 }}
+saveamberparm test confamb.prmtop confamb-163.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -162 }}
+saveamberparm test confamb.prmtop confamb-162.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -161 }}
+saveamberparm test confamb.prmtop confamb-161.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -160 }}
+saveamberparm test confamb.prmtop confamb-160.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -159 }}
+saveamberparm test confamb.prmtop confamb-159.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -158 }}
+saveamberparm test confamb.prmtop confamb-158.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -157 }}
+saveamberparm test confamb.prmtop confamb-157.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -156 }}
+saveamberparm test confamb.prmtop confamb-156.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -155 }}
+saveamberparm test confamb.prmtop confamb-155.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -154 }}
+saveamberparm test confamb.prmtop confamb-154.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -153 }}
+saveamberparm test confamb.prmtop confamb-153.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -152 }}
+saveamberparm test confamb.prmtop confamb-152.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -151 }}
+saveamberparm test confamb.prmtop confamb-151.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -150 }}
+saveamberparm test confamb.prmtop confamb-150.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -149 }}
+saveamberparm test confamb.prmtop confamb-149.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -148 }}
+saveamberparm test confamb.prmtop confamb-148.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -147 }}
+saveamberparm test confamb.prmtop confamb-147.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -146 }}
+saveamberparm test confamb.prmtop confamb-146.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -145 }}
+saveamberparm test confamb.prmtop confamb-145.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -144 }}
+saveamberparm test confamb.prmtop confamb-144.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -143 }}
+saveamberparm test confamb.prmtop confamb-143.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -142 }}
+saveamberparm test confamb.prmtop confamb-142.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -141 }}
+saveamberparm test confamb.prmtop confamb-141.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -140 }}
+saveamberparm test confamb.prmtop confamb-140.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -139 }}
+saveamberparm test confamb.prmtop confamb-139.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -138 }}
+saveamberparm test confamb.prmtop confamb-138.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -137 }}
+saveamberparm test confamb.prmtop confamb-137.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -136 }}
+saveamberparm test confamb.prmtop confamb-136.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -135 }}
+saveamberparm test confamb.prmtop confamb-135.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -134 }}
+saveamberparm test confamb.prmtop confamb-134.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -133 }}
+saveamberparm test confamb.prmtop confamb-133.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -132 }}
+saveamberparm test confamb.prmtop confamb-132.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -131 }}
+saveamberparm test confamb.prmtop confamb-131.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -130 }}
+saveamberparm test confamb.prmtop confamb-130.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -129 }}
+saveamberparm test confamb.prmtop confamb-129.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -128 }}
+saveamberparm test confamb.prmtop confamb-128.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -127 }}
+saveamberparm test confamb.prmtop confamb-127.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -126 }}
+saveamberparm test confamb.prmtop confamb-126.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -125 }}
+saveamberparm test confamb.prmtop confamb-125.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -124 }}
+saveamberparm test confamb.prmtop confamb-124.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -123 }}
+saveamberparm test confamb.prmtop confamb-123.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -122 }}
+saveamberparm test confamb.prmtop confamb-122.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -121 }}
+saveamberparm test confamb.prmtop confamb-121.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -120 }}
+saveamberparm test confamb.prmtop confamb-120.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -119 }}
+saveamberparm test confamb.prmtop confamb-119.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -118 }}
+saveamberparm test confamb.prmtop confamb-118.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -117 }}
+saveamberparm test confamb.prmtop confamb-117.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -116 }}
+saveamberparm test confamb.prmtop confamb-116.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -115 }}
+saveamberparm test confamb.prmtop confamb-115.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -114 }}
+saveamberparm test confamb.prmtop confamb-114.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -113 }}
+saveamberparm test confamb.prmtop confamb-113.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -112 }}
+saveamberparm test confamb.prmtop confamb-112.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -111 }}
+saveamberparm test confamb.prmtop confamb-111.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -110 }}
+saveamberparm test confamb.prmtop confamb-110.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -109 }}
+saveamberparm test confamb.prmtop confamb-109.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -108 }}
+saveamberparm test confamb.prmtop confamb-108.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -107 }}
+saveamberparm test confamb.prmtop confamb-107.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -106 }}
+saveamberparm test confamb.prmtop confamb-106.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -105 }}
+saveamberparm test confamb.prmtop confamb-105.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -104 }}
+saveamberparm test confamb.prmtop confamb-104.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -103 }}
+saveamberparm test confamb.prmtop confamb-103.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -102 }}
+saveamberparm test confamb.prmtop confamb-102.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -101 }}
+saveamberparm test confamb.prmtop confamb-101.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -100 }}
+saveamberparm test confamb.prmtop confamb-100.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -99 }}
+saveamberparm test confamb.prmtop confamb-99.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -98 }}
+saveamberparm test confamb.prmtop confamb-98.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -97 }}
+saveamberparm test confamb.prmtop confamb-97.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -96 }}
+saveamberparm test confamb.prmtop confamb-96.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -95 }}
+saveamberparm test confamb.prmtop confamb-95.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -94 }}
+saveamberparm test confamb.prmtop confamb-94.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -93 }}
+saveamberparm test confamb.prmtop confamb-93.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -92 }}
+saveamberparm test confamb.prmtop confamb-92.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -91 }}
+saveamberparm test confamb.prmtop confamb-91.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -90 }}
+saveamberparm test confamb.prmtop confamb-90.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -89 }}
+saveamberparm test confamb.prmtop confamb-89.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -88 }}
+saveamberparm test confamb.prmtop confamb-88.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -87 }}
+saveamberparm test confamb.prmtop confamb-87.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -86 }}
+saveamberparm test confamb.prmtop confamb-86.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -85 }}
+saveamberparm test confamb.prmtop confamb-85.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -84 }}
+saveamberparm test confamb.prmtop confamb-84.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -83 }}
+saveamberparm test confamb.prmtop confamb-83.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -82 }}
+saveamberparm test confamb.prmtop confamb-82.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -81 }}
+saveamberparm test confamb.prmtop confamb-81.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -80 }}
+saveamberparm test confamb.prmtop confamb-80.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -79 }}
+saveamberparm test confamb.prmtop confamb-79.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -78 }}
+saveamberparm test confamb.prmtop confamb-78.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -77 }}
+saveamberparm test confamb.prmtop confamb-77.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -76 }}
+saveamberparm test confamb.prmtop confamb-76.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -75 }}
+saveamberparm test confamb.prmtop confamb-75.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -74 }}
+saveamberparm test confamb.prmtop confamb-74.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -73 }}
+saveamberparm test confamb.prmtop confamb-73.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -72 }}
+saveamberparm test confamb.prmtop confamb-72.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -71 }}
+saveamberparm test confamb.prmtop confamb-71.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -70 }}
+saveamberparm test confamb.prmtop confamb-70.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -69 }}
+saveamberparm test confamb.prmtop confamb-69.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -68 }}
+saveamberparm test confamb.prmtop confamb-68.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -67 }}
+saveamberparm test confamb.prmtop confamb-67.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -66 }}
+saveamberparm test confamb.prmtop confamb-66.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -65 }}
+saveamberparm test confamb.prmtop confamb-65.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -64 }}
+saveamberparm test confamb.prmtop confamb-64.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -63 }}
+saveamberparm test confamb.prmtop confamb-63.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -62 }}
+saveamberparm test confamb.prmtop confamb-62.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -61 }}
+saveamberparm test confamb.prmtop confamb-61.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -60 }}
+saveamberparm test confamb.prmtop confamb-60.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -59 }}
+saveamberparm test confamb.prmtop confamb-59.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -58 }}
+saveamberparm test confamb.prmtop confamb-58.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -57 }}
+saveamberparm test confamb.prmtop confamb-57.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -56 }}
+saveamberparm test confamb.prmtop confamb-56.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -55 }}
+saveamberparm test confamb.prmtop confamb-55.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -54 }}
+saveamberparm test confamb.prmtop confamb-54.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -53 }}
+saveamberparm test confamb.prmtop confamb-53.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -52 }}
+saveamberparm test confamb.prmtop confamb-52.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -51 }}
+saveamberparm test confamb.prmtop confamb-51.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -50 }}
+saveamberparm test confamb.prmtop confamb-50.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -49 }}
+saveamberparm test confamb.prmtop confamb-49.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -48 }}
+saveamberparm test confamb.prmtop confamb-48.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -47 }}
+saveamberparm test confamb.prmtop confamb-47.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -46 }}
+saveamberparm test confamb.prmtop confamb-46.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -45 }}
+saveamberparm test confamb.prmtop confamb-45.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -44 }}
+saveamberparm test confamb.prmtop confamb-44.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -43 }}
+saveamberparm test confamb.prmtop confamb-43.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -42 }}
+saveamberparm test confamb.prmtop confamb-42.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -41 }}
+saveamberparm test confamb.prmtop confamb-41.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -40 }}
+saveamberparm test confamb.prmtop confamb-40.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -39 }}
+saveamberparm test confamb.prmtop confamb-39.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -38 }}
+saveamberparm test confamb.prmtop confamb-38.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -37 }}
+saveamberparm test confamb.prmtop confamb-37.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -36 }}
+saveamberparm test confamb.prmtop confamb-36.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -35 }}
+saveamberparm test confamb.prmtop confamb-35.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -34 }}
+saveamberparm test confamb.prmtop confamb-34.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -33 }}
+saveamberparm test confamb.prmtop confamb-33.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -32 }}
+saveamberparm test confamb.prmtop confamb-32.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -31 }}
+saveamberparm test confamb.prmtop confamb-31.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -30 }}
+saveamberparm test confamb.prmtop confamb-30.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -29 }}
+saveamberparm test confamb.prmtop confamb-29.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -28 }}
+saveamberparm test confamb.prmtop confamb-28.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -27 }}
+saveamberparm test confamb.prmtop confamb-27.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -26 }}
+saveamberparm test confamb.prmtop confamb-26.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -25 }}
+saveamberparm test confamb.prmtop confamb-25.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -24 }}
+saveamberparm test confamb.prmtop confamb-24.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -23 }}
+saveamberparm test confamb.prmtop confamb-23.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -22 }}
+saveamberparm test confamb.prmtop confamb-22.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -21 }}
+saveamberparm test confamb.prmtop confamb-21.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -20 }}
+saveamberparm test confamb.prmtop confamb-20.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -19 }}
+saveamberparm test confamb.prmtop confamb-19.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -18 }}
+saveamberparm test confamb.prmtop confamb-18.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -17 }}
+saveamberparm test confamb.prmtop confamb-17.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -16 }}
+saveamberparm test confamb.prmtop confamb-16.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -15 }}
+saveamberparm test confamb.prmtop confamb-15.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -14 }}
+saveamberparm test confamb.prmtop confamb-14.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -13 }}
+saveamberparm test confamb.prmtop confamb-13.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -12 }}
+saveamberparm test confamb.prmtop confamb-12.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -11 }}
+saveamberparm test confamb.prmtop confamb-11.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -10 }}
+saveamberparm test confamb.prmtop confamb-10.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -9 }}
+saveamberparm test confamb.prmtop confamb-9.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -8 }}
+saveamberparm test confamb.prmtop confamb-8.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -7 }}
+saveamberparm test confamb.prmtop confamb-7.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -6 }}
+saveamberparm test confamb.prmtop confamb-6.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -5 }}
+saveamberparm test confamb.prmtop confamb-5.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -4 }}
+saveamberparm test confamb.prmtop confamb-4.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -3 }}
+saveamberparm test confamb.prmtop confamb-3.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -2 }}
+saveamberparm test confamb.prmtop confamb-2.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 -1 }}
+saveamberparm test confamb.prmtop confamb-1.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 0 }}
+saveamberparm test confamb.prmtop confamb0.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 1 }}
+saveamberparm test confamb.prmtop confamb1.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 2 }}
+saveamberparm test confamb.prmtop confamb2.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 3 }}
+saveamberparm test confamb.prmtop confamb3.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 4 }}
+saveamberparm test confamb.prmtop confamb4.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 5 }}
+saveamberparm test confamb.prmtop confamb5.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 6 }}
+saveamberparm test confamb.prmtop confamb6.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 7 }}
+saveamberparm test confamb.prmtop confamb7.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 8 }}
+saveamberparm test confamb.prmtop confamb8.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 9 }}
+saveamberparm test confamb.prmtop confamb9.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 10 }}
+saveamberparm test confamb.prmtop confamb10.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 11 }}
+saveamberparm test confamb.prmtop confamb11.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 12 }}
+saveamberparm test confamb.prmtop confamb12.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 13 }}
+saveamberparm test confamb.prmtop confamb13.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 14 }}
+saveamberparm test confamb.prmtop confamb14.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 15 }}
+saveamberparm test confamb.prmtop confamb15.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 16 }}
+saveamberparm test confamb.prmtop confamb16.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 17 }}
+saveamberparm test confamb.prmtop confamb17.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 18 }}
+saveamberparm test confamb.prmtop confamb18.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 19 }}
+saveamberparm test confamb.prmtop confamb19.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 20 }}
+saveamberparm test confamb.prmtop confamb20.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 21 }}
+saveamberparm test confamb.prmtop confamb21.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 22 }}
+saveamberparm test confamb.prmtop confamb22.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 23 }}
+saveamberparm test confamb.prmtop confamb23.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 24 }}
+saveamberparm test confamb.prmtop confamb24.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 25 }}
+saveamberparm test confamb.prmtop confamb25.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 26 }}
+saveamberparm test confamb.prmtop confamb26.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 27 }}
+saveamberparm test confamb.prmtop confamb27.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 28 }}
+saveamberparm test confamb.prmtop confamb28.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 29 }}
+saveamberparm test confamb.prmtop confamb29.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 30 }}
+saveamberparm test confamb.prmtop confamb30.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 31 }}
+saveamberparm test confamb.prmtop confamb31.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 32 }}
+saveamberparm test confamb.prmtop confamb32.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 33 }}
+saveamberparm test confamb.prmtop confamb33.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 34 }}
+saveamberparm test confamb.prmtop confamb34.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 35 }}
+saveamberparm test confamb.prmtop confamb35.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 36 }}
+saveamberparm test confamb.prmtop confamb36.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 37 }}
+saveamberparm test confamb.prmtop confamb37.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 38 }}
+saveamberparm test confamb.prmtop confamb38.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 39 }}
+saveamberparm test confamb.prmtop confamb39.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 40 }}
+saveamberparm test confamb.prmtop confamb40.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 41 }}
+saveamberparm test confamb.prmtop confamb41.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 42 }}
+saveamberparm test confamb.prmtop confamb42.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 43 }}
+saveamberparm test confamb.prmtop confamb43.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 44 }}
+saveamberparm test confamb.prmtop confamb44.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 45 }}
+saveamberparm test confamb.prmtop confamb45.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 46 }}
+saveamberparm test confamb.prmtop confamb46.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 47 }}
+saveamberparm test confamb.prmtop confamb47.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 48 }}
+saveamberparm test confamb.prmtop confamb48.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 49 }}
+saveamberparm test confamb.prmtop confamb49.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 50 }}
+saveamberparm test confamb.prmtop confamb50.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 51 }}
+saveamberparm test confamb.prmtop confamb51.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 52 }}
+saveamberparm test confamb.prmtop confamb52.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 53 }}
+saveamberparm test confamb.prmtop confamb53.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 54 }}
+saveamberparm test confamb.prmtop confamb54.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 55 }}
+saveamberparm test confamb.prmtop confamb55.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 56 }}
+saveamberparm test confamb.prmtop confamb56.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 57 }}
+saveamberparm test confamb.prmtop confamb57.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 58 }}
+saveamberparm test confamb.prmtop confamb58.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 59 }}
+saveamberparm test confamb.prmtop confamb59.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 60 }}
+saveamberparm test confamb.prmtop confamb60.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 61 }}
+saveamberparm test confamb.prmtop confamb61.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 62 }}
+saveamberparm test confamb.prmtop confamb62.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 63 }}
+saveamberparm test confamb.prmtop confamb63.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 64 }}
+saveamberparm test confamb.prmtop confamb64.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 65 }}
+saveamberparm test confamb.prmtop confamb65.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 66 }}
+saveamberparm test confamb.prmtop confamb66.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 67 }}
+saveamberparm test confamb.prmtop confamb67.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 68 }}
+saveamberparm test confamb.prmtop confamb68.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 69 }}
+saveamberparm test confamb.prmtop confamb69.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 70 }}
+saveamberparm test confamb.prmtop confamb70.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 71 }}
+saveamberparm test confamb.prmtop confamb71.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 72 }}
+saveamberparm test confamb.prmtop confamb72.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 73 }}
+saveamberparm test confamb.prmtop confamb73.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 74 }}
+saveamberparm test confamb.prmtop confamb74.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 75 }}
+saveamberparm test confamb.prmtop confamb75.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 76 }}
+saveamberparm test confamb.prmtop confamb76.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 77 }}
+saveamberparm test confamb.prmtop confamb77.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 78 }}
+saveamberparm test confamb.prmtop confamb78.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 79 }}
+saveamberparm test confamb.prmtop confamb79.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 80 }}
+saveamberparm test confamb.prmtop confamb80.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 81 }}
+saveamberparm test confamb.prmtop confamb81.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 82 }}
+saveamberparm test confamb.prmtop confamb82.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 83 }}
+saveamberparm test confamb.prmtop confamb83.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 84 }}
+saveamberparm test confamb.prmtop confamb84.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 85 }}
+saveamberparm test confamb.prmtop confamb85.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 86 }}
+saveamberparm test confamb.prmtop confamb86.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 87 }}
+saveamberparm test confamb.prmtop confamb87.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 88 }}
+saveamberparm test confamb.prmtop confamb88.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 89 }}
+saveamberparm test confamb.prmtop confamb89.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 90 }}
+saveamberparm test confamb.prmtop confamb90.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 91 }}
+saveamberparm test confamb.prmtop confamb91.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 92 }}
+saveamberparm test confamb.prmtop confamb92.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 93 }}
+saveamberparm test confamb.prmtop confamb93.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 94 }}
+saveamberparm test confamb.prmtop confamb94.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 95 }}
+saveamberparm test confamb.prmtop confamb95.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 96 }}
+saveamberparm test confamb.prmtop confamb96.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 97 }}
+saveamberparm test confamb.prmtop confamb97.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 98 }}
+saveamberparm test confamb.prmtop confamb98.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 99 }}
+saveamberparm test confamb.prmtop confamb99.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 100 }}
+saveamberparm test confamb.prmtop confamb100.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 101 }}
+saveamberparm test confamb.prmtop confamb101.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 102 }}
+saveamberparm test confamb.prmtop confamb102.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 103 }}
+saveamberparm test confamb.prmtop confamb103.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 104 }}
+saveamberparm test confamb.prmtop confamb104.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 105 }}
+saveamberparm test confamb.prmtop confamb105.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 106 }}
+saveamberparm test confamb.prmtop confamb106.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 107 }}
+saveamberparm test confamb.prmtop confamb107.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 108 }}
+saveamberparm test confamb.prmtop confamb108.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 109 }}
+saveamberparm test confamb.prmtop confamb109.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 110 }}
+saveamberparm test confamb.prmtop confamb110.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 111 }}
+saveamberparm test confamb.prmtop confamb111.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 112 }}
+saveamberparm test confamb.prmtop confamb112.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 113 }}
+saveamberparm test confamb.prmtop confamb113.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 114 }}
+saveamberparm test confamb.prmtop confamb114.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 115 }}
+saveamberparm test confamb.prmtop confamb115.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 116 }}
+saveamberparm test confamb.prmtop confamb116.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 117 }}
+saveamberparm test confamb.prmtop confamb117.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 118 }}
+saveamberparm test confamb.prmtop confamb118.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 119 }}
+saveamberparm test confamb.prmtop confamb119.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 120 }}
+saveamberparm test confamb.prmtop confamb120.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 121 }}
+saveamberparm test confamb.prmtop confamb121.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 122 }}
+saveamberparm test confamb.prmtop confamb122.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 123 }}
+saveamberparm test confamb.prmtop confamb123.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 124 }}
+saveamberparm test confamb.prmtop confamb124.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 125 }}
+saveamberparm test confamb.prmtop confamb125.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 126 }}
+saveamberparm test confamb.prmtop confamb126.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 127 }}
+saveamberparm test confamb.prmtop confamb127.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 128 }}
+saveamberparm test confamb.prmtop confamb128.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 129 }}
+saveamberparm test confamb.prmtop confamb129.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 130 }}
+saveamberparm test confamb.prmtop confamb130.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 131 }}
+saveamberparm test confamb.prmtop confamb131.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 132 }}
+saveamberparm test confamb.prmtop confamb132.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 133 }}
+saveamberparm test confamb.prmtop confamb133.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 134 }}
+saveamberparm test confamb.prmtop confamb134.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 135 }}
+saveamberparm test confamb.prmtop confamb135.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 136 }}
+saveamberparm test confamb.prmtop confamb136.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 137 }}
+saveamberparm test confamb.prmtop confamb137.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 138 }}
+saveamberparm test confamb.prmtop confamb138.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 139 }}
+saveamberparm test confamb.prmtop confamb139.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 140 }}
+saveamberparm test confamb.prmtop confamb140.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 141 }}
+saveamberparm test confamb.prmtop confamb141.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 142 }}
+saveamberparm test confamb.prmtop confamb142.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 143 }}
+saveamberparm test confamb.prmtop confamb143.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 144 }}
+saveamberparm test confamb.prmtop confamb144.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 145 }}
+saveamberparm test confamb.prmtop confamb145.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 146 }}
+saveamberparm test confamb.prmtop confamb146.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 147 }}
+saveamberparm test confamb.prmtop confamb147.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 148 }}
+saveamberparm test confamb.prmtop confamb148.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 149 }}
+saveamberparm test confamb.prmtop confamb149.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 150 }}
+saveamberparm test confamb.prmtop confamb150.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 151 }}
+saveamberparm test confamb.prmtop confamb151.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 152 }}
+saveamberparm test confamb.prmtop confamb152.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 153 }}
+saveamberparm test confamb.prmtop confamb153.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 154 }}
+saveamberparm test confamb.prmtop confamb154.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 155 }}
+saveamberparm test confamb.prmtop confamb155.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 156 }}
+saveamberparm test confamb.prmtop confamb156.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 157 }}
+saveamberparm test confamb.prmtop confamb157.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 158 }}
+saveamberparm test confamb.prmtop confamb158.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 159 }}
+saveamberparm test confamb.prmtop confamb159.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 160 }}
+saveamberparm test confamb.prmtop confamb160.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 161 }}
+saveamberparm test confamb.prmtop confamb161.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 162 }}
+saveamberparm test confamb.prmtop confamb162.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 163 }}
+saveamberparm test confamb.prmtop confamb163.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 164 }}
+saveamberparm test confamb.prmtop confamb164.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 165 }}
+saveamberparm test confamb.prmtop confamb165.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 166 }}
+saveamberparm test confamb.prmtop confamb166.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 167 }}
+saveamberparm test confamb.prmtop confamb167.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 168 }}
+saveamberparm test confamb.prmtop confamb168.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 169 }}
+saveamberparm test confamb.prmtop confamb169.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 170 }}
+saveamberparm test confamb.prmtop confamb170.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 171 }}
+saveamberparm test confamb.prmtop confamb171.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 172 }}
+saveamberparm test confamb.prmtop confamb172.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 173 }}
+saveamberparm test confamb.prmtop confamb173.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 174 }}
+saveamberparm test confamb.prmtop confamb174.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 175 }}
+saveamberparm test confamb.prmtop confamb175.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 176 }}
+saveamberparm test confamb.prmtop confamb176.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 177 }}
+saveamberparm test confamb.prmtop confamb177.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 178 }}
+saveamberparm test confamb.prmtop confamb178.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 179 }}
+saveamberparm test confamb.prmtop confamb179.inpcrd
+set default PBradii mbondi2
+test = sequence{ACE ASH NME}
+impose test {2} {{OD1 CG OD2 HD2 180 }}
+saveamberparm test confamb.prmtop confamb180.inpcrd
