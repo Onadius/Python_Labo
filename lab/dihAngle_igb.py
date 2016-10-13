@@ -52,8 +52,8 @@ if __name__ == "__main__":
     		
     	elif(type == "6"):
     		com2 = ""
-    	
-    	elif type in {"1", "5"}:
+    		
+    	elif (type == "5"):
     		mbon = 2
     		com2 = "set default PBradii mbondi%s" % str(mbon)
     	
