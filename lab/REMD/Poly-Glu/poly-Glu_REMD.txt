@@ -1,0 +1,49 @@
+エラーの値として出してもらった値を更に√20で割ってください。
+
+HO-OH-C-H　の
+1.9　2.3
+
+1.90000000E+00  2.30000000E+00 
+
+おそらくtleapで力場ファイルを読み込んでGBSAの原子半径パラメータの読み込みをどのようにするかということはすでに前前期に教えていると思います.
+
+20残基の酸性条件のポリグルタミン酸をやる場合は
+
+例えば, 1残基であれば, 
+
+test = {ACE GLH NEM}
+
+とするところを, 
+
+test = sequence{ACE GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH NME}
+とするだけで良いです.
+
+
+また, レプリカ数の変更 (→22 レプリカ), シミュレーション時間 (→10 ns), 温度幅 (→300-800 K)の変更については
+prepare_input_eq.pyとprepare_input_sim.pyの中の, 
+
+
+        rep_num = 6
+	first_temp = 300
+	last_temp = 900
+	rem_switch = 0        #rem = 1 :REMD , rem = 0 :not REMD 
+	chag_name = ["irest","ntx","nstlim","numexchg"]
+	chag_val = [0,1,100000,1]
+
+
+のパラメータをいじればよいだけです.  pythonについては勉強してもらってると思うのでできるはずです.
+
+また, 使うマシンについてですが, 22 レプリカはかなり多いので, gpu01とgpu03を使ってください.
+
+やり方はhostsファイルの中身を
+
+gpu01: 12
+gpu03: 10
+
+に変更すれば良いだけです. 
+
+実行するときは, 130 (gpu03)のマシンでやってください. リモートの仕方はわかると思います.
+
+頃合いをみて/misc/qnap01/SOTU15/toolsの中に解析ファイルを送るのでそれを使って解析してください.
+
+以上です.
