@@ -1,6 +1,6 @@
 #Amber REMD input template  
 
-set n_cpu = 6
+set n_cpu = 22
 set n_rep = 22
 
 # n_cpu must be a multiple of n_rep

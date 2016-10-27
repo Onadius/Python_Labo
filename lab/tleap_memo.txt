@@ -1,0 +1,9 @@
+tleap -s -f leaprc.ff99SB
+tleap -s -f leaprc.ff14SB(110‚Ìƒ}ƒVƒ“‚Å/mnt)
+tleap -s -f leaprc.ff14ipq
+tleap -s -f leaprc.ff03.r1
+
+
+>set default PBradii mbondi2
+>test = sequence{ACE GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH GLH NME}
+>saveamberparm test confamb.prmtop confamb.inpcrd
