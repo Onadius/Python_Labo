@@ -1,0 +1,12 @@
+[biostr1@gpu04 v1=0]$ python dihAngle_igb.py
+What is the type of igb? >5
+confamb.prmtop  dihAngle_igb.py  doCommand_igb5.txt  results_igb5_1031
+> results_igb5_1031 is exists!
+
+[biostr1@gpu04 v1=0]$ cd results_igb5_1031/
+
+/*Ene.in を該当するigbの数値に書き換えて保存*/
+/*doCommand_igbx.txtを保存*/
+
+tleap -s -f leaprc.ff99SB -f doCommand.txt　--> tleapを走らせるにあたり、
+-f ~.txtでテキスト内のコマンドを走らせる。
