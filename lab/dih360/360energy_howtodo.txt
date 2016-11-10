@@ -10,3 +10,21 @@ confamb.prmtop  dihAngle_igb.py  doCommand_igb5.txt  results_igb5_1031
 
 tleap -s -f leaprc.ff99SB -f doCommand.txt　--> tleapを走らせるにあたり、
 -f ~.txtでテキスト内のコマンドを走らせる。
+
+次に、
+Ene.in のigb=x に対応する数字を書き換えてフォルダにコピー。
+prmtopファイルのdihedral部分を適当な値に書き換える。(vim)
+さらにdihAng_Sandar.pyをコピーし実行。
+
+sh grep.sh //これでallout.txtできる
+
+[biostr1@gpu04 results_igb5_113]$ python result.py
+[biostr1@gpu04 results_igb5_113]$ python make_allout.py
+
+これで抽出ファイル
+all_result.txtができる。
+
+完了
+
+
+
